@@ -1,0 +1,57 @@
+.background {
+  viewport-fill: lightslategray;
+}
+
+#psinorthtext {
+  fill: white;
+  font-size: 30;
+  font-family: Colfax-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 99;
+}
+
+#psisouthtext {
+  fill: white;
+  font-size: 30;
+  font-family: Colfax-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 99;
+}
+
+#psieasttext {
+  fill: white;
+  font-size: 30;
+  font-family: Colfax-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 99;
+}
+
+#psiwesttext {
+  fill: white;
+  font-size: 30;
+  font-family: Colfax-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 99;
+}
+
+#psicentraltext {
+  fill: white;
+  font-size: 30;
+  font-family: Colfax-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 99;
+}
+
+#datetimetext {
+  fill: black;
+  font-size: 13;
+  font-family: Colfax-Regular;
+  font-weight: bold;
+  text-anchor: start;
+  text-length: 99;
+}

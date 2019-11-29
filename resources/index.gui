@@ -1,0 +1,25 @@
+<svg class="background">
+  <text x="6%" y="90%-8" fill="black" font-size="13" font-family="Colfax-Regular" text-anchor="start">Obtained from: data.gov.sg</text>
+  <text id="datetimetext" x="6%" y="90%+8"></text>
+  
+  <image x="50%-120" y="40%-110" width="240" height="240" href="sg-200.png" />
+  
+  <circle id="northcircle" cx="50%" cy="14%" r="24" fill="red" opacity="0.6"/>
+  <circle id="southcircle" cx="50%" cy="60%" r="24" fill="red" opacity="0.6"/>
+  <circle id="eastcircle" cx="20%" cy="37%" r="24" fill="red" opacity="0.6"/>
+  <circle id="westcircle" cx="80%" cy="37%" r="24" fill="red" opacity="0.6"/>
+  <circle id="centralcircle" cx="50%" cy="37%" r="24" fill="red" opacity="0.6"/>
+
+  <text id="psinorthtext" x="50%" y="14%+12">N</text>
+  <text id="psisouthtext" x="50%" y="60%+12">S</text>
+  <text id="psieasttext" x="20%" y="37%+12">E</text>
+  <text id="psiwesttext" x="80%" y="37%+12">W</text>
+  <text id="psicentraltext" x="50%" y="37%+12">C</text>
+  
+  <!--Legend-->
+  <text x="70%" y="68%" fill="green" font-size="13" font-family="Colfax-Bold">Good</text>
+  <text x="70%" y="68%+16" fill="blue" font-size="13" font-family="Colfax-Bold">Moderate</text>
+  <text x="70%" y="68%+32" fill="yellow" font-size="13" font-family="Colfax-Bold">Unhealthy</text>
+  <text x="70%" y="68%+48" fill="orange" font-size="13" font-family="Colfax-Bold">Very Unhealthy</text>
+  <text x="70%" y="68%+64" fill="red" font-size="13" font-family="Colfax-Bold">Hazardous</text>
+</svg>
